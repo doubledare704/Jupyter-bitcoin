@@ -27,3 +27,11 @@
 ![Daily close price](volumecomponent.png)
 
 ![Daily close price](volume_component2.png)
+
+# Etherium
+
+### Etherium forecast for +365 days
+![Daily close price](ether.png)
+
+### Etherium forecasting components
+![Daily close price](ethercomps.png)
